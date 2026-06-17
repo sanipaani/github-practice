@@ -1,3 +1,5 @@
 # GitHub Practice
 
-Learning Git and GitHub as part of my Cyber Security journey.
+Learning Git and GitHub.
+
+Updated on Day 1.
